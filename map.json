@@ -26,6 +26,16 @@
                  "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
                 }, 
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{\"DEFAULT_BACKGROUND\":\"#77ee77"
+                }, 
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"espaceBas"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"oneaction"
@@ -47,6 +57,16 @@
                  "name":"jitsiConfig",
                  "type":"string",
                  "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                }, 
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{\"DEFAULT_BACKGROUND\":\"#77ee77"
+                }, 
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"espaceHaut"
                 }, 
                 {
                  "name":"jitsiTrigger",
